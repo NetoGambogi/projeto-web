@@ -9,7 +9,7 @@
 /* Fundo*/
 
 body {
-    background: linear-gradient(to right, #7eff84, #75ff85, #7eff9a);
+    background: linear-gradient(to right, #8127ef, #751cab, #8127ef);
     color: white;
     text-align: center;
     padding: 20px;
@@ -31,7 +31,7 @@ p {
 
 /* botão */
 button {
-    background-color: #ff4785;
+    background-color: #8127ef;
     color: white;
     padding: 10px 20px;
     font-size: 1.2em;
@@ -42,7 +42,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff2858;
+    background-color: #8127ef;
     transform: scale(1.1);
 }
 
